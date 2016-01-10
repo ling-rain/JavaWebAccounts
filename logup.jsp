@@ -11,7 +11,7 @@
 <%
 
 String driver="com.mysql.jdbc.Driver";
-String url="jdbc:mysql://localhost:3306/tomcat"; // 连接到 school 数据库
+String url="jdbc:mysql://localhost:3306/tomcat"; // 连接到 tomcat 数据库
 
 String userid="mysql账号"; // 用户
 String passwd="mysql密码"; // 密码
