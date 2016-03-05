@@ -6,4 +6,4 @@ A web accounts system based on Tomcat.
 
 # Browse at http://139.129.27.124:8081 before March
 
-三月份前可在网址http://139.129.27.124:8081浏览
+三月份前可在网址139.129.27.124:8081浏览
